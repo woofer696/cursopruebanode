@@ -1,0 +1,15 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "Aqui es donde estoy aprendiendo todo sobre nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Rosas",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
