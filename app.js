@@ -57,3 +57,7 @@ multiplicar.crearArchivo(cont)
     multiplicar.crearArchivoPromesa(base[1])
     .then(archivo=> console.log(archivo))
     .catch(e=>console.log(e));*/
+
+let text=()=>{
+    return 'new update';
+}
